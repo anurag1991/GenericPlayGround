@@ -11,8 +11,6 @@ var lastName = "yadav"
 var int1 = 1
 var int2 = 2
 
-
-
 func swapTwoString(name:inout String, lastName:inout String) {
   let tempString = name
       name = lastName
